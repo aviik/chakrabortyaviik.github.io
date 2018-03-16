@@ -1,2 +1,0 @@
-# chakrabortyaviik.github.io
-myWebSite
